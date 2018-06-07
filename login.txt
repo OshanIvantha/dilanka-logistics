@@ -1,0 +1,13 @@
+ostdinlanka@gmail.com
+dinlanka@123
+
+
+Admin 
+Email : nuwanraseeganepola@gmail.com
+Username : dinuka
+Password : dinlanka@123
+
+
+Database : dinlanka_db
+Username : root
+Password : root
